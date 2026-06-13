@@ -97,7 +97,7 @@ Screenshot <img width="1308" height="737" alt="Sales_Dashboard" src="https://git
 
 Author: Pratisha Biswal
 
-Project: Call Center Performance Analysis
+Project: Brand Sales Analysis
 
 Email: pratishabiswal@gmail.com
 
