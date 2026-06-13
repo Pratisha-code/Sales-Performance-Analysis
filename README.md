@@ -93,7 +93,15 @@ Screenshot <img width="1308" height="737" alt="Sales_Dashboard" src="https://git
 
 - Predictive Inventory Management.
 
+  ## Author
 
+Author: Pratisha Biswal
+
+Project: Call Center Performance Analysis
+
+Email: pratishabiswal@gmail.com
+
+GitHub: https://github.com/Pratisha-code
 
 
 
