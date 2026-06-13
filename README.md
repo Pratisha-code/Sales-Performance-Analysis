@@ -93,7 +93,7 @@ Screenshot <img width="1308" height="737" alt="Sales_Dashboard" src="https://git
 
 - Predictive Inventory Management.
 
-  ## Author
+  ## Author and Contact
 
 Author: Pratisha Biswal
 
