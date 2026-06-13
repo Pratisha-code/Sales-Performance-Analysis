@@ -58,7 +58,7 @@ Microsoft Excel
 
 - Pivot Charts
   
-  Power BI
+Power BI
 - Data Modeling
 - 
 - DAX Measures
